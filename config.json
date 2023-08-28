@@ -1,0 +1,11 @@
+{
+    "formioUrl": "http://127.0.0.1:8080/formio",
+    "appUrl": "http://127.0.0.1:8080",
+    "username": "admin@example.com",
+    "password": "CHANGEME",
+    "projectTitle": "eSubMod-portal",
+    "stageTitle": "Dev Code",
+    "versionTag": "0.0.5",
+    "templateFile": "C:/formiotest/authoring-stage.json",
+    "infoLogging": "true"
+}
